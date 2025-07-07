@@ -1,4 +1,4 @@
-## Hi there 👋
+##하나씩 성실히 쌓아가는 데이터 분석가 지망생 김영웅입니다.👋
 
 <!--
 **herokim2025/herokim2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
